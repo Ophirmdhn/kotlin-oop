@@ -1,3 +1,4 @@
+package com.ophi
 class Orang(private var name: String) {
     //untuk dapat mengakses propertinya harus menambahkan fungsi getter dan setter
 

@@ -1,3 +1,4 @@
+package com.ophi
 class Anim(var name: String, var weight: Double, var age: Int, var isMammal: Boolean)
 
 val Anim.getAnimalInfo : String

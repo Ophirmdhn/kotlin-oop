@@ -1,3 +1,5 @@
+package com.ophi
+
 //overloading memungkinkan kita memiliki fungsi dengan nama yang sama
 class Calculator {
     fun add(value1: Int, value2: Int) = value1 + value2

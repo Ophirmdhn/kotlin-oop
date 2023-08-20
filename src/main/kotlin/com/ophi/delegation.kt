@@ -1,4 +1,3 @@
-import kotlin.properties.Delegates
 import kotlin.reflect.KProperty
 
 //kelas pengelola fungsi getter dan setter

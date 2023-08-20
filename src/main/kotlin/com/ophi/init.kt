@@ -1,3 +1,5 @@
+package com.ophi
+
 class Animalll(pName: String, pWeight: Double, pAge: Int, pIsMammal: Boolean){
     val name: String
     val weight: Double
